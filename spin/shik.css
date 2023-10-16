@@ -40,7 +40,7 @@ div.shik {
 }
 
 div.shik {
-    background-image: url(../shikun.webp);
+    background-image: url("/shikun.webp");
 }
 
 @keyframes shikky-spin {
