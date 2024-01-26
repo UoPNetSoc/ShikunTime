@@ -1,8 +1,9 @@
 body {
     background-color: pink;
+    overflow: hidden;
 }
 
-/* aside#shik {
+aside#shik {
     position: fixed;
     top: 0;
     left: 0;
@@ -10,10 +11,10 @@ body {
     width: 100vw;
     z-index: -1;
 
-    background-image: url(src/shik.png) ;
+    background-image: url(/shikun.jpg) ;
     background-size: calc(100vw / 50) calc(100vh / 50);
     background-repeat: repeat;
-} */
+}
 
 div#shik-bg {
     position: fixed;
@@ -24,6 +25,7 @@ div#shik-bg {
     z-index: -1;
     opacity: 0.8;
     text-align: center;
+    transform: scale(1.5);
 }
 
 div.shik {
