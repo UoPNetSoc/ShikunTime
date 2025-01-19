@@ -11,7 +11,7 @@ aside#shik {
     width: 100vw;
     z-index: -1;
 
-    background-image: url(/shikun.jpg) ;
+    background-image: url(shikun.jpg) ;
     background-size: calc(100vw / 50) calc(100vh / 50);
     background-repeat: repeat;
 }
@@ -42,7 +42,7 @@ div.shik {
 }
 
 div.shik {
-    background-image: url("/shikun.jpg");
+    background-image: url("shikun.jpg");
 }
 
 @keyframes shikky-spin {
